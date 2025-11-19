@@ -12,7 +12,6 @@ Bei der erste Übung wird Githubs Grundfunktionen vorgestellt, wie Repositories,
 
 
 ---
-
 ## 2. Markdown vorstellen
 Bei der zweite Übung wird Markdown als Kommunikations- und Dokumentationstool vorgestellt.
 
@@ -22,5 +21,4 @@ Bei der zweite Übung wird Markdown als Kommunikations- und Dokumentationstool v
 3. "Edit File" verwenden um die Datei zu Bearbeiten.
 4. Checklisten erstellen [x] oder [].
 5. Die drei "-" um eine Textbox vorzuheben.
-
 ---
